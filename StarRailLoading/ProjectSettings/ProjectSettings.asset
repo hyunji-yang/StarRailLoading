@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 838abeb3d4301cf4f907a8f5952de926
+  productGUID: 90abcbce6f19bc34baba7f9ce5170ae8
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -920,10 +920,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: adc3ea00-32d0-4ebb-b549-223221ab4f41
+  cloudProjectId: 07550623-a9be-477b-ba6b-fd4b546db31d
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: StarRailLoading
+  projectName: StarRailLoading 2025-06-12_09-55-03
   organizationId: yhj8904
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
